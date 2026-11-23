@@ -97,6 +97,11 @@ Patch:              Sponge (Gbka)
 Testy multiplayer:  Grzelciu i Yoshi - dzięki za testy multiplayera
                     przez Radmin VPN!
 
+WSPARCIE
+--------
+Jeśli patch Ci się przydał, możesz postawić kawę:
+  https://ko-fi.com/gbka1
+
 Smash Up Derby (c) City Interactive / Lemon Interactive.
 To nieoficjalny patch fanowski, niezwiązany z wydawcami.
 Kod źródłowy: src\sud_patch.cpp
