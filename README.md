@@ -3,6 +3,8 @@
 Unofficial patch for **Smash Up Derby** (City Interactive, 2003) that fixes its problems on Windows 10/11.
 It is a single `d3d8.dll` proxy placed next to `cars.exe`. **No original game files are modified**, and every fix can be turned off in `SUD_Patch.ini`.
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/gbka1)
+
 🇵🇱 Polish instructions: [README_PL.txt](README_PL.txt)
 
 ## Features
@@ -69,5 +71,11 @@ cl /nologo /LD /O2 /MT /EHa src\sud_patch.cpp /Fe:d3d8.dll user32.lib
 
 - Patch: **Sponge (Gbka)**
 - Multiplayer testing: **Grzelciu** and **Yoshi**, thanks for testing the multiplayer over Radmin VPN!
+
+## Support
+
+If the patch helped you, you can buy me a coffee:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/gbka1)
 
 *Smash Up Derby © City Interactive / Lemon Interactive. This is an unofficial fan patch, not affiliated with the publishers.*
